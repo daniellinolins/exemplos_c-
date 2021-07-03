@@ -8,7 +8,7 @@ namespace projetos
         {
             String nome;
             nome = Console.ReadLine(); 
-            Console.WriteLine("Hello " + nome);
+            Console.WriteLine("Hello3 " + nome);
 //Console.ReadLine(); 
         }
     }
